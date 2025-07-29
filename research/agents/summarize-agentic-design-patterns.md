@@ -4,4 +4,4 @@ REVIEW THE FOLLOWING LINK AND PROVIDE A HIGH-LEVEL SUMMARY
 STORE THE SUMMARY IN THE RESPONSE FILE
 
 <LINK>https://medium.com/@bijit211987/agentic-design-patterns-cbd0aae2962f</LINK>
-<RESPONSE-FILE>.agent/response-02.md</RESPONSE-FILE>
+<RESPONSE-FILE>.agent/response-02.md

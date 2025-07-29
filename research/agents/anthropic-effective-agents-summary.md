@@ -38,24 +38,3 @@ Base building block enhanced with retrieval, tools, and memory capabilities.
 ## Successful Use Cases
 
 **Customer Support**: Natural conversation flow with tool integration for data access and programmatic actions
-
-**Coding Agents**: Verifiable solutions through automated tests, clear problem space, objective quality measurement
-
-## Best Practices
-
-### Tool Development (Agent-Computer Interface)
-- Give models enough tokens to "think" before writing
-- Keep formats close to natural internet text
-- Minimize formatting overhead
-- Include clear documentation, examples, and edge cases
-- Test extensively and iterate based on model behavior
-
-### Implementation Guidelines
-1. Maintain simplicity in agent design
-2. Prioritize transparency in planning steps
-3. Carefully craft agent-computer interface through thorough tool documentation
-4. Use comprehensive evaluation and measurement
-5. Add complexity only when simpler solutions fall short
-
-## Summary
-Success in LLM agents comes from building the right system for specific needs, not the most sophisticated one. Start with simple prompts, optimize through evaluation, and progress to multi-step agentic systems only when necessary.
