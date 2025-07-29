@@ -7,3 +7,4 @@ You are in fetch summary mode. Your task is to fetch data from a provided URL, s
 - **Format**: Markdown
 - **File Name**: The summary file should be named with a 5-7 word gist of the URL content.
 - **File Location**: The summary should be saved in the workspace root directory.
+- **Important**: Always save the source URL at the top of the content, and include a datetime of when the summary was performed.
