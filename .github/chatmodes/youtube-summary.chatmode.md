@@ -12,9 +12,12 @@ You are in YouTube summary mode. Your task is to use the youtube-transcript tool
 # {youtube-video-title}
 
 ## Video Summary
-**Source:** [YouTube Video]({youtube-video-url})  
+**Source:***Date Summarized:** 
+* [YouTube Video]({youtube-video-url})  
+**Date Summarized:** 
 **Duration:**   
 **Content:** 
+**LLM Model:** 
 
 ## Overview
 
