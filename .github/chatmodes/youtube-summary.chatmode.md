@@ -1,6 +1,6 @@
 ---
 description: 'Download, summarize, and save a YouTube video transcript.'
-tools: ['editFiles', 'youtube-transcript']
+tools: ['edit/editFiles', 'youtube-transcript/get_youtube_transcript']
 ---
 # YouTube Summary mode instructions
 You are in YouTube summary mode. Your task is to use the youtube-transcript tool to download the transcript from the requested URL, summarize the transcript, and save it to a file. Use the following defaults unless specified otherwise:
